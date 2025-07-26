@@ -12,17 +12,17 @@
 
 *MENTOR*: NEELA SANTOSH
 
-#📌 Description of the Task
+# Description of the Task
 The Developer Portfolio was the first major task assigned during my internship at CODTECH IT SOLUTIONS under the Software Development domain. The goal of this project was to design and develop a professional portfolio website that showcases my skills, projects, and achievements as a web developer.
 
 This portfolio serves as a personal brand identity and acts as an online resume to display my capabilities in building modern, responsive, and user-friendly web applications.
 
-#🎯 Objective of the Project
+# Objective of the Project
 Create a responsive, interactive, and visually appealing portfolio website using HTML, CSS, and JavaScript.
 Include essential sections such as About Me, Projects, Skills, and Contact Form.
 Demonstrate UI/UX design thinking and a strong understanding of front-end development.
 
-#🛠️ Planning and Design
+# Planning and Design
 Website Sections:
 Header & Navigation Bar → Links to About, Projects, Skills, Contact.
 Hero Section → My introduction, role as Full-Stack Developer, and social links.
@@ -31,14 +31,14 @@ Projects Section → Highlights: Weather App, Bank Management System, Quiz App G
 Skills Section → Languages, Frameworks, Tools with progress bars.
 Contact Section → Contact form with email, phone, GitHub links.
 
-#💻 Development Process
+# Development Process
 Built using HTML5 (structure), CSS3 (styling), JavaScript (interactivity).
 Implemented responsive design using CSS media queries.
 Added smooth scrolling and interactive buttons.
 Project showcase with images and descriptions.
 Functional contact form with JavaScript validation and alert messages.
 
-🚀 Features
+# Features
 ✅ Fully responsive across all devices.
 ✅ Clean and professional UI design.
 ✅ Project showcase with images & links.
@@ -46,7 +46,7 @@ Functional contact form with JavaScript validation and alert messages.
 ✅ Contact form for direct communication.
 ✅ Smooth navigation & animations.
 
-📸 Screenshots
+# Screenshots
 🔹 Home / Hero Section
 <img width="1923" height="1083" alt="image" src="https://github.com/user-attachments/assets/ada629ce-31d0-48f6-858f-1764623c506d" />
 
@@ -59,13 +59,13 @@ Functional contact form with JavaScript validation and alert messages.
 🔹 technologies Section
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c1373ee-9145-41bf-a5c6-564e8f634757" />
 
-📚 Learning Outcomes
+# Learning Outcomes
 ✔ Enhanced my front-end development skills.
 ✔ Learned UI/UX design principles & responsive layout techniques.
 ✔ Improved JavaScript DOM manipulation & event handling.
 ✔ Gained experience in building and deploying a professional portfolio site.
 
-🏁 Conclusion
+# Conclusion
 The Developer Portfolio was a significant learning milestone during my internship at CODTECH IT SOLUTIONS. It allowed me to create a platform to showcase my skills and projects while applying real-world development practices.
 
 
