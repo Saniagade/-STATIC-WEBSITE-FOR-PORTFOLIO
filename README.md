@@ -12,45 +12,46 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# Description of the Task
+# 📌 Description of the Task
 The Developer Portfolio was the first major task assigned during my internship at CODTECH IT SOLUTIONS under the Software Development domain. The goal of this project was to design and develop a professional portfolio website that showcases my skills, projects, and achievements as a web developer.
 
 This portfolio serves as a personal brand identity and acts as an online resume to display my capabilities in building modern, responsive, and user-friendly web applications.
 
-# Objective of the Project
-Create a responsive, interactive, and visually appealing portfolio website using HTML, CSS, and JavaScript.
+# 🎯 Objective of the Project
 
-Include essential sections such as About Me, Projects, Skills, and Contact Form.
+🔹Create a responsive, interactive, and visually appealing portfolio website using HTML, CSS, and JavaScript.
 
-Demonstrate UI/UX design thinking and a strong understanding of front-end development.
+🔹Include essential sections such as About Me, Projects, Skills, and Contact Form.
 
-# Planning and Design
+🔹Demonstrate UI/UX design thinking and a strong understanding of front-end development.
+
+# 🛠️ Planning and Design
 Website Sections:
-Header & Navigation Bar → Links to About, Projects, Skills, Contact.
+✔ Header & Navigation Bar → Links to About, Projects, Skills, Contact.
 
-Hero Section → My introduction, role as Full-Stack Developer, and social links.
+✔ Hero Section → My introduction, role as Full-Stack Developer, and social links.
 
-About Me → Background, coding passion, and core expertise in HTML, CSS, JavaScript, Node.js, React, Java.
+✔ About Me → Background, coding passion, and core expertise in HTML, CSS, JavaScript, Node.js, React, Java.
 
-Projects Section → Highlights: Weather App, Bank Management System, Quiz App Game.
+✔ Projects Section → Highlights: Weather App, Bank Management System, Quiz App Game.
 
-Skills Section → Languages, Frameworks, Tools with progress bars.
+✔ Skills Section → Languages, Frameworks, Tools with progress bars.
 
-Contact Section → Contact form with email, phone, GitHub links.
+✔ Contact Section → Contact form with email, phone, GitHub links.
 
-# Development Process
+# 💻 Development Process
 
-Built using HTML5 (structure), CSS3 (styling), JavaScript (interactivity).
+🔹Built using HTML5 (structure), CSS3 (styling), JavaScript (interactivity).
 
-Implemented responsive design using CSS media queries.
+🔹Implemented responsive design using CSS media queries.
 
-Added smooth scrolling and interactive buttons.
+🔹Added smooth scrolling and interactive buttons.
 
-Project showcase with images and descriptions.
+🔹Project showcase with images and descriptions.
 
-Functional contact form with JavaScript validation and alert messages.
+🔹Functional contact form with JavaScript validation and alert messages.
 
-# Features
+# 🚀 Features
 
 ✅ Fully responsive across all devices.
 
@@ -77,7 +78,11 @@ Functional contact form with JavaScript validation and alert messages.
 🔹 technologies Section
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c1373ee-9145-41bf-a5c6-564e8f634757" />
 
-# Learning Outcomes
+🔹 Contact section
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be34c1cd-29d7-45e3-8d69-f5eea5f79456" />
+
+
+# 📚 Learning Outcomes
 
 ✔ Enhanced my front-end development skills.
 
