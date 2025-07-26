@@ -27,6 +27,7 @@ This portfolio serves as a personal brand identity and acts as an online resume 
 
 # 🛠️ Planning and Design
 Website Sections:
+
 ✔ Header & Navigation Bar → Links to About, Projects, Skills, Contact.
 
 ✔ Hero Section → My introduction, role as Full-Stack Developer, and social links.
